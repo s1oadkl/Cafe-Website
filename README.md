@@ -9,7 +9,7 @@ The website introduces WCB Cafe, its food menu, latest news, business informatio
 Add your GitHub Pages website link here after publishing:
 
 ```text
-https://s1oadkl.github.io/Cafe-Website/
+(https://github.com/s1oadkl/Cafe-Website)
 ```
 
 ## Pages

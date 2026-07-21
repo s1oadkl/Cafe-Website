@@ -6,9 +6,7 @@ The website introduces WCB Cafe, its food menu, latest news, business informatio
 
 ## Website Preview
 
-View the Website:
-
-[https://github.com/s1oadkl/Cafe-Website](https://s1oadkl.github.io/Cafe-Website/
+[View the Website:](https://s1oadkl.github.io/Cafe-Website/
 )
 
 ## Pages

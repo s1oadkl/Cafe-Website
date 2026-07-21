@@ -6,10 +6,11 @@ The website introduces WCB Cafe, its food menu, latest news, business informatio
 
 ## Website Preview
 
-Add your GitHub Pages website link here after publishing:
+View the Website:
 
 ```text
-https://github.com/s1oadkl/Cafe-Website
+[https://github.com/s1oadkl/Cafe-Website](https://s1oadkl.github.io/Cafe-Website/
+)
 ```
 
 ## Pages
@@ -120,7 +121,7 @@ Download or clone the repository and open `index.html` in a web browser.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/Cafe-Website.git
+git clone https://github.com/s1oadkl/Cafe-Website.git
 ```
 
 2. Open the project folder:

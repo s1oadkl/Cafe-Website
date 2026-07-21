@@ -8,10 +8,8 @@ The website introduces WCB Cafe, its food menu, latest news, business informatio
 
 View the Website:
 
-```text
 [https://github.com/s1oadkl/Cafe-Website](https://s1oadkl.github.io/Cafe-Website/
 )
-```
 
 ## Pages
 
